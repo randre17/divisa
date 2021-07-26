@@ -1,0 +1,8 @@
+com\moneda\ws\rest\TipoCambioController.class
+com\moneda\repository\TipoCambioRepository.class
+com\moneda\RetoApplication.class
+com\moneda\bean\TipoCambioResponse.class
+com\moneda\bean\TipoCambioBean.class
+com\moneda\exception\RecordNotFoundException.class
+com\moneda\model\TipoCambioEntity.class
+com\moneda\service\TipoCambioService.class
